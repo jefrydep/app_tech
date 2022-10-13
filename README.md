@@ -1,5 +1,6 @@
 # demostracion del resultado
-[https://user-images.githubusercontent.com/76604719/195722511-d03e6fdc-67e6-4139-b1d1-68c7785ea5b7.mp4]
+ 
+ ![app-tech 1](https://user-images.githubusercontent.com/76604719/195722995-8b9aa80a-0c4f-4d0f-b635-97f6e7df609d.gif)
 A new Flutter project.
 
 ## Getting Started
@@ -14,6 +15,7 @@ A new Flutter project.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
